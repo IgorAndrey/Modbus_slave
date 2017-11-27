@@ -1,0 +1,9 @@
+D:\Проекты\Modbus_slave\Modbus_Slave\Modbus_Slave\bin\Debug\Modbus_Slave.exe.config
+D:\Проекты\Modbus_slave\Modbus_Slave\Modbus_Slave\bin\Debug\Modbus_Slave.exe
+D:\Проекты\Modbus_slave\Modbus_Slave\Modbus_Slave\bin\Debug\Modbus_Slave.pdb
+D:\Проекты\Modbus_slave\Modbus_Slave\Modbus_Slave\obj\Debug\Modbus_Slave.csprojResolveAssemblyReference.cache
+D:\Проекты\Modbus_slave\Modbus_Slave\Modbus_Slave\obj\Debug\Modbus_Slave.Form1.resources
+D:\Проекты\Modbus_slave\Modbus_Slave\Modbus_Slave\obj\Debug\Modbus_Slave.Properties.Resources.resources
+D:\Проекты\Modbus_slave\Modbus_Slave\Modbus_Slave\obj\Debug\Modbus_Slave.csproj.GenerateResource.Cache
+D:\Проекты\Modbus_slave\Modbus_Slave\Modbus_Slave\obj\Debug\Modbus_Slave.exe
+D:\Проекты\Modbus_slave\Modbus_Slave\Modbus_Slave\obj\Debug\Modbus_Slave.pdb
